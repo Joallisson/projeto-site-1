@@ -40,3 +40,8 @@ a:hover {
     text-decoration: underline;
     color: rgb(26, 26, 255);
 }
+
+img.imagem{
+    width: 60%;
+    margin-left: 20%;
+}
